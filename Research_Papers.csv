@@ -1,0 +1,152 @@
+,Title,GitHub URL,Date of Publication
+0,Optimized U-Net for Brain Tumor Segmentation,https://paperswithcode.com/paper/optimized-u-net-for-brain-tumor-segmentation#code,7 Oct 2021
+1,nnU-Net for Brain Tumor Segmentation,https://paperswithcode.com/paper/nnu-net-for-brain-tumor-segmentation#code,2 Nov 2020
+2,3D MRI brain tumor segmentation using autoencoder regularization,https://paperswithcode.com/paper/3d-mri-brain-tumor-segmentation-using#code,27 Oct 2018
+3,Brain Tumor Segmentation with Deep Neural Networks,https://paperswithcode.com/paper/brain-tumor-segmentation-with-deep-neural#code,13 May 2015
+4,TransBTS: Multimodal Brain Tumor Segmentation Using Transformer,https://paperswithcode.com/paper/transbts-multimodal-brain-tumor-segmentation#code,7 Mar 2021
+5,Brain Tumor Segmentation and Radiomics Survival Prediction: Contribution to the BRATS 2017 Challenge,https://paperswithcode.com/paper/brain-tumor-segmentation-and-radiomics#code,28 Feb 2018
+6,The Brain Tumor Segmentation (BraTS) Challenge 2023: Focus on Pediatrics (CBTN-CONNECT-DIPGR-ASNR-MICCAI BraTS-PEDs),https://paperswithcode.com/paper/the-brain-tumor-segmentation-brats-challenge-2#code,26 May 2023
+7,Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images,https://paperswithcode.com/paper/swin-unetr-swin-transformers-for-semantic#code,4 Jan 2022
+8,3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI,https://paperswithcode.com/paper/3d-dilated-multi-fiber-network-for-real-time#code,6 Apr 2019
+9,Multi-step Cascaded Networks for Brain Tumor Segmentation,https://paperswithcode.com/paper/multi-step-cascaded-networks-for-brain-tumor#code,16 Aug 2019
+10,RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection,https://paperswithcode.com/paper/rcs-yolo-a-fast-and-high-accuracy-object#code,31 Jul 2023
+11,3D U-Net Based Brain Tumor Segmentation and Survival Days Prediction,https://paperswithcode.com/paper/brain-wise-tumor-segmentation-and-patient#code,15 Sep 2019
+12,Knowledge Distillation for Brain Tumor Segmentation,https://paperswithcode.com/paper/knowledge-distillation-for-brain-tumor#code,10 Feb 2020
+13,BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection,https://paperswithcode.com/paper/bgf-yolo-enhanced-yolov8-with-multiscale#code,22 Sep 2023
+14,Brain Tumor Segmentation and Tractographic Feature Extraction from Structural MR Images for Overall Survival Prediction,https://paperswithcode.com/paper/brain-tumor-segmentation-and-tractographic#code,20 Jul 2018
+15,TBraTS: Trusted Brain Tumor Segmentation,https://paperswithcode.com/paper/tbrats-trusted-brain-tumor-segmentation#code,19 Jun 2022
+16,"Generalized Wasserstein Dice Score, Distributionally Robust Deep Learning, and Ranger for brain tumor segmentation: BraTS 2020 challenge",https://paperswithcode.com/paper/generalized-wasserstein-dice-score#code,3 Nov 2020
+17,"Brain tumor segmentation with self-ensembled, deeply-supervised 3D U-net neural networks: a BraTS 2020 challenge solution",https://paperswithcode.com/paper/top-10-brats-2020-challenge-solution-brain#code,30 Oct 2020
+18,Automatic Brain Tumor Segmentation using Cascaded Anisotropic Convolutional Neural Networks,https://paperswithcode.com/paper/automatic-brain-tumor-segmentation-using-1#code,1 Sep 2017
+19,MRI brain tumor segmentation and uncertainty estimation using 3D-UNet architectures,https://paperswithcode.com/paper/mri-brain-tumor-segmentation-and-uncertainty#code,30 Dec 2020
+20,One-pass Multi-task Networks with Cross-task Guided Attention for Brain Tumor Segmentation,https://paperswithcode.com/paper/one-pass-multi-task-networks-with-cross-task#code,5 Jun 2019
+21,RFNet: Region-Aware Fusion Network for Incomplete Multi-Modal Brain Tumor Segmentation,https://paperswithcode.com/paper/rfnet-region-aware-fusion-network-for#code,
+22,FusionINN: Decomposable Image Fusion for Brain Tumor Monitoring,https://paperswithcode.com/paper/fusioninn-invertible-image-fusion-for-brain#code,23 Mar 2024
+23,Brain Tumor Segmentation Based on Refined Fully Convolutional Neural Networks with A Hierarchical Dice Loss,https://paperswithcode.com/paper/brain-tumor-segmentation-based-on-refined#code,25 Dec 2017
+24,Deep Learning-Based Concurrent Brain Registration and Tumor Segmentation,https://paperswithcode.com/paper/deep-learning-based-concurrent-brain#code,20 Mar 2020
+25,DR-Unet104 for Multimodal MRI brain tumor segmentation,https://paperswithcode.com/paper/dr-unet104-for-multimodal-mri-brain-tumor#code,4 Nov 2020
+26,What is the best data augmentation for 3D brain tumor segmentation?,https://paperswithcode.com/paper/what-is-the-best-data-augmentation-approach#code,26 Oct 2020
+27,Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction,https://paperswithcode.com/paper/domain-knowledge-based-brain-tumor#code,16 Dec 2019
+28,NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation,https://paperswithcode.com/paper/nestedformer-nested-modality-aware#code,31 Aug 2022
+29,Adaptive feature recombination and recalibration for semantic segmentation: application to brain tumor segmentation in MRI,https://paperswithcode.com/paper/adaptive-feature-recombination-and#code,6 Jun 2018
+30,A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation,https://paperswithcode.com/paper/a-two-stage-cascade-model-with-variational#code,4 Nov 2020
+31,Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-Recurrence Brain Tumor MRI Scans,https://paperswithcode.com/paper/unsupervised-deformable-image-registration-1#code,8 Jun 2022
+32,Brain Tumor Radiogenomic Classification,https://paperswithcode.com/paper/brain-tumor-radiogenomic-classification#code,11 Jan 2024
+33,Multimodal brain tumor classification,https://paperswithcode.com/paper/multimodal-brain-tumor-classification#code,3 Sep 2020
+34,Segmenting Brain Tumors with Symmetry,https://paperswithcode.com/paper/segmenting-brain-tumors-with-symmetry#code,17 Nov 2017
+35,Brain Tumor Segmentation: A Comparative Analysis,https://paperswithcode.com/paper/brain-tumor-segmentation-a-comparative#code,9 Mar 2015
+36,Transfer Learning for Brain Tumor Segmentation,https://paperswithcode.com/paper/transfer-learning-for-brain-tumor#code,28 Dec 2019
+37,Modality-Pairing Learning for Brain Tumor Segmentation,https://paperswithcode.com/paper/modality-pairing-learning-for-brain-tumor#code,19 Oct 2020
+38,Brain Tumor Survival Prediction using Radiomics Features,https://paperswithcode.com/paper/brain-tumor-survival-prediction-using#code,7 Sep 2020
+39,Brain Tumor Type Classification via Capsule Networks,https://paperswithcode.com/paper/brain-tumor-type-classification-via-capsule#code,27 Feb 2018
+40,Detection and Classification of Glioblastoma Brain Tumor,https://paperswithcode.com/paper/detection-and-classification-of-glioblastoma#code,18 Apr 2023
+41,Brain Tumor Detection Using Deep Learning Approaches,https://paperswithcode.com/paper/brain-tumor-detection-using-deep-learning#code,21 Sep 2023
+42,Advancing Brain Tumor Inpainting with Generative Models,https://paperswithcode.com/paper/advancing-brain-tumor-inpainting-with#code,2 Feb 2024
+43,Brain Tumor Image Retrieval via Multitask Learning,https://paperswithcode.com/paper/brain-tumor-image-retrieval-via-multitask#code,22 Oct 2018
+44,Detecting Brain Tumors through Multimodal Neural Networks,https://paperswithcode.com/paper/detecting-brain-tumors-through-multimodal#code,10 Jan 2024
+45,Brain Tumor Detection using Convolutional Neural Network,https://paperswithcode.com/paper/brain-tumor-detection-using-convolutional#code,
+46,Within-Brain Classification for Brain Tumor Segmentation,https://paperswithcode.com/paper/within-brain-classification-for-brain-tumor#code,5 Oct 2015
+47,Segment Anything Model for Brain Tumor Segmentation,https://paperswithcode.com/paper/segment-anything-model-for-brain-tumor#code,15 Sep 2023
+48,Neural parameters estimation for brain tumor growth modeling,https://paperswithcode.com/paper/neural-parameters-estimation-for-brain-tumor#code,1 Jul 2019
+49,Prediction of Overall Survival of Brain Tumor Patients,https://paperswithcode.com/paper/prediction-of-overall-survival-of-brain-tumor#code,10 Sep 2019
+50,Context Aware 3D UNet for Brain Tumor Segmentation,https://paperswithcode.com/paper/context-aware-3d-unet-for-brain-tumor#code,25 Oct 2020
+51,A Pretrained DenseNet Encoder for Brain Tumor Segmentation,https://paperswithcode.com/paper/a-pretrained-densenet-encoder-for-brain-tumor#code,19 Nov 2018
+52,Deep Recurrent Level Set for Segmenting Brain Tumors,https://paperswithcode.com/paper/deep-recurrent-level-set-for-segmenting-brain#code,10 Oct 2018
+53,HMM Model for Brain Tumor Detection and Classification,https://paperswithcode.com/paper/hmm-model-for-brain-tumor-detection-and#code,
+54,Automatic Brain Tumor Segmentation with Scale Attention Network,https://paperswithcode.com/paper/automatic-head-and-neck-tumor-segmentation-in#code,6 Nov 2020
+55,Deep Learning Based Brain Tumor Segmentation: A Survey,https://paperswithcode.com/paper/deep-learning-based-brain-tumor-segmentation#code,18 Jul 2020
+56,Unsupervised Brain Tumor Segmentation with Image-based Prompts,https://paperswithcode.com/paper/unsupervised-brain-tumor-segmentation-with#code,4 Apr 2023
+57,Brain tumor detection using artificial convolutional neural networks,https://paperswithcode.com/paper/brain-tumor-detection-using-artificial#code,22 Jun 2022
+58,Efficient embedding network for 3D brain tumor segmentation,https://paperswithcode.com/paper/efficient-embedding-network-for-3d-brain#code,22 Nov 2020
+59,Brain Tumor Detection Based on Bilateral Symmetry Information,https://paperswithcode.com/paper/brain-tumor-detection-based-on-bilateral#code,9 Dec 2014
+60,Brain Tumor Diagnosis Using Quantum Convolutional Neural Networks,https://paperswithcode.com/paper/brain-tumor-diagnosis-using-quantum#code,28 Jan 2024
+61,Brain Tumor Classification Using Medial Residual Encoder Layers,https://paperswithcode.com/paper/brain-tumor-classification-using-medial#code,1 Nov 2020
+62,Detection of brain tumors using machine learning algorithms,https://paperswithcode.com/paper/detection-of-brain-tumors-using-machine#code,12 Jan 2022
+63,Deepfake Image Generation for Improved Brain Tumor Segmentation,https://paperswithcode.com/paper/deepfake-image-generation-for-improved-brain#code,26 Jul 2023
+64,Predicting Hypoxia in Brain Tumors from Multiparametric MRI,https://paperswithcode.com/paper/predicting-hypoxia-in-brain-tumors-from#code,25 Jan 2024
+65,Unsupervised Domain Adaptation for Pediatric Brain Tumor Segmentation,https://paperswithcode.com/paper/unsupervised-domain-adaptation-for-pediatric#code,24 Jun 2024
+66,Cross-Modality Deep Feature Learning for Brain Tumor Segmentation,https://paperswithcode.com/paper/cross-modality-deep-feature-learning-for#code,7 Jan 2022
+67,Multi Modal Convolutional Neural Networks for Brain Tumor Segmentation,https://paperswithcode.com/paper/multi-modal-convolutional-neural-networks-for#code,17 Sep 2018
+68,Ensemble Learning with Residual Transformer for Brain Tumor Segmentation,https://paperswithcode.com/paper/ensemble-learning-with-residual-transformer#code,31 Jul 2023
+69,Brain Tumor Classification From MRI Images Using Machine Learning,https://paperswithcode.com/paper/brain-tumor-classification-from-mri-images#code,15 Jul 2024
+70,A Volumetric Convolutional Neural Network for Brain Tumor Segmentation,https://paperswithcode.com/paper/a-volumetric-convolutional-neural-network-for#code,27 Oct 2018
+71,Predictive modeling of brain tumor: A Deep learning approach,https://paperswithcode.com/paper/predictive-modeling-of-brain-tumor-a-deep#code,6 Nov 2019
+72,Integer Quantization for Deep Learning Inference: Principles and Empirical Evaluation,https://paperswithcode.com/paper/integer-quantization-for-deep-learning#code,20 Apr 2020
+73,Deep Learning with Differential Privacy,https://paperswithcode.com/paper/deep-learning-with-differential-privacy#code,1 Jul 2016
+74,Deep Residual Learning for Image Recognition,https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition#code,
+75,ShakeDrop Regularization for Deep Residual Learning,https://paperswithcode.com/paper/shakedrop-regularization-for-deep-residual#code,7 Feb 2018
+76,Xception: Deep Learning with Depthwise Separable Convolutions,https://paperswithcode.com/paper/xception-deep-learning-with-depthwise#code,
+77,Deep Reinforcement Learning with Double Q-learning,https://paperswithcode.com/paper/deep-reinforcement-learning-with-double-q#code,22 Sep 2015
+78,Deep Learning Recommendation Model for Personalization and Recommendation Systems,https://paperswithcode.com/paper/190600091#code,31 May 2019
+79,Deep Image Retrieval: Learning global representations for image search,https://paperswithcode.com/paper/deep-image-retrieval-learning-global#code,5 Apr 2016
+80,Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,https://paperswithcode.com/paper/unsupervised-representation-learning-with-1#code,19 Nov 2015
+81,Playing Atari with Deep Reinforcement Learning,https://paperswithcode.com/paper/playing-atari-with-deep-reinforcement#code,19 Dec 2013
+82,Dueling Network Architectures for Deep Reinforcement Learning,https://paperswithcode.com/paper/dueling-network-architectures-for-deep#code,20 Nov 2015
+83,Evidential Deep Learning to Quantify Classification Uncertainty,https://paperswithcode.com/paper/evidential-deep-learning-to-quantify#code,
+84,"PyTorch: An Imperative Style, High-Performance Deep Learning Library",https://paperswithcode.com/paper/pytorch-an-imperative-style-high-performance-1#code,
+85,DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems,https://paperswithcode.com/paper/dcn-m-improved-deep-cross-network-for-feature#code,19 Aug 2020
+86,fastai: A Layered API for Deep Learning,https://paperswithcode.com/paper/fastai-a-layered-api-for-deep-learning#code,11 Feb 2020
+87,Asynchronous Methods for Deep Reinforcement Learning,https://paperswithcode.com/paper/asynchronous-methods-for-deep-reinforcement#code,4 Feb 2016
+88,Continuous control with deep reinforcement learning,https://paperswithcode.com/paper/continuous-control-with-deep-reinforcement#code,9 Sep 2015
+89,Dive into Deep Learning,https://paperswithcode.com/paper/dive-into-deep-learning#code,21 Jun 2021
+90,Dopamine: A Research Framework for Deep Reinforcement Learning,https://paperswithcode.com/paper/dopamine-a-research-framework-for-deep#code,14 Dec 2018
+91,HeterPS: Distributed Deep Learning With Reinforcement Learning Based Scheduling in Heterogeneous Environments,https://paperswithcode.com/paper/heterps-distributed-deep-learning-with#code,20 Nov 2021
+92,Scalable Second Order Optimization for Deep Learning,https://paperswithcode.com/paper/second-order-optimization-made-practical#code,20 Feb 2020
+93,Optimization of Molecules via Deep Reinforcement Learning,https://paperswithcode.com/paper/optimization-of-molecules-via-deep#code,19 Oct 2018
+94,Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks,https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast#code,
+95,AutoDropout: Learning Dropout Patterns to Regularize Deep Networks,https://paperswithcode.com/paper/autodropout-learning-dropout-patterns-to#code,5 Jan 2021
+96,CNTK: Microsoft's Open-Source Deep-Learning Toolkit,https://paperswithcode.com/paper/cntk-microsofts-open-source-deep-learning#code,
+97,Deep High-Resolution Representation Learning for Human Pose Estimation,https://paperswithcode.com/paper/deep-high-resolution-representation-learning#code,
+98,LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis,https://paperswithcode.com/paper/layoutparser-a-unified-toolkit-for-deep#code,29 Mar 2021
+99,Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels,https://paperswithcode.com/paper/synthetic-vs-real-deep-learning-on-controlled-1#code,
+100,DeepSpeed Data Efficiency: Improving Deep Learning Model Quality and Training Efficiency via Efficient Data Sampling and Routing,https://paperswithcode.com/paper/deepspeed-data-efficiency-improving-deep#code,7 Dec 2022
+101,Wide & Deep Learning for Recommender Systems,https://paperswithcode.com/paper/wide-deep-learning-for-recommender-systems#code,24 Jun 2016
+102,DDGK: Learning Graph Representations for Deep Divergence Graph Kernels,https://paperswithcode.com/paper/ddgk-learning-graph-representations-for-deep#code,21 Apr 2019
+103,QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning,https://paperswithcode.com/paper/qmix-monotonic-value-function-factorisation#code,
+104,Deep Reinforcement Learning,https://paperswithcode.com/paper/deep-reinforcement-learning#code,15 Oct 2018
+105,SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels,https://paperswithcode.com/paper/splinecnn-fast-geometric-deep-learning-with#code,
+106,A guide to convolution arithmetic for deep learning,https://paperswithcode.com/paper/a-guide-to-convolution-arithmetic-for-deep#code,23 Mar 2016
+107,Why & When Deep Learning Works: Looking Inside Deep Learnings,https://paperswithcode.com/paper/why-when-deep-learning-works-looking-inside#code,10 May 2017
+108,Deep Learning Microscopy,https://paperswithcode.com/paper/deep-learning-microscopy#code,12 May 2017
+109,Compositional Deep Learning,https://paperswithcode.com/paper/compositional-deep-learning#code,16 Jul 2019
+110,Causal Deep Learning,https://paperswithcode.com/paper/causal-deep-learning#code,3 Mar 2023
+111,Deep learning Profit & Loss,https://paperswithcode.com/paper/deep-learning-profit-loss#code,17 Jun 2020
+112,Deep Learning for Fitness,https://paperswithcode.com/paper/deep-learning-for-fitness-1#code,
+113,Laconic Deep Learning Computing,https://paperswithcode.com/paper/laconic-deep-learning-computing#code,10 May 2018
+114,Deep Learning Multidimensional Projections,https://paperswithcode.com/paper/deep-learning-multidimensional-projections#code,21 Feb 2019
+115,Introduction to deep learning,https://paperswithcode.com/paper/introduction-to-deep-learning#code,29 Feb 2020
+116,Deep Learning in Finance,https://paperswithcode.com/paper/deep-learning-in-finance#code,21 Feb 2016
+117,Neuromorphic Deep Learning Machines,https://paperswithcode.com/paper/neuromorphic-deep-learning-machines#code,16 Dec 2016
+118,Personalization of Deep Learning,https://paperswithcode.com/paper/mass-personalization-of-deep-learning#code,6 Sep 2019
+119,Towards Regulated Deep Learning,https://paperswithcode.com/paper/towards-regulated-deep-learning#code,31 Dec 2019
+120,Multi-modal Deep Learning,https://paperswithcode.com/paper/multi-modal-deep-learning#code,6 Mar 2024
+121,Deep Learning Statistical Arbitrage,https://paperswithcode.com/paper/deep-learning-statistical-arbitrage#code,8 Jun 2021
+122,Physics-based Deep Learning,https://paperswithcode.com/paper/physics-based-deep-learning#code,11 Sep 2021
+123,Why Deep Learning Generalizes,https://paperswithcode.com/paper/why-deep-learning-generalizes#code,17 Nov 2022
+124,Deep Learning and Geometric Deep Learning: an introduction for mathematicians and physicists,https://paperswithcode.com/paper/deep-learning-and-geometric-deep-learning-an#code,9 May 2023
+125,On Using Deep Learning Proxies as Forward Models in Deep Learning Problems,https://paperswithcode.com/paper/on-using-deep-learning-proxies-as-forward#code,16 Jan 2023
+126,Deep Learning of Graph Matching,https://paperswithcode.com/paper/deep-learning-of-graph-matching#code,
+127,Kernel Methods for Deep Learning,https://paperswithcode.com/paper/kernel-methods-for-deep-learning#code,
+128,Generative NeuroEvolution for Deep Learning,https://paperswithcode.com/paper/generative-neuroevolution-for-deep-learning#code,18 Dec 2013
+129,Deep Learning Initialized Phase Retrieval,https://paperswithcode.com/paper/deep-learning-initialized-phase-retrieval#code,23 Oct 2020
+130,Communication Algorithms via Deep Learning,https://paperswithcode.com/paper/communication-algorithms-via-deep-learning#code,
+131,Interpretable Deep Learning under Fire,https://paperswithcode.com/paper/interpretable-deep-learning-under-fire#code,3 Dec 2018
+132,Deep Learning with Topological Signatures,https://paperswithcode.com/paper/deep-learning-with-topological-signatures#code,
+133,Earnings Prediction with Deep Learning,https://paperswithcode.com/paper/earnings-prediction-with-deep-leaning#code,3 Jun 2020
+134,Generative Choreography using Deep Learning,https://paperswithcode.com/paper/generative-choreography-using-deep-learning#code,23 May 2016
+135,Geometric Understanding of Deep Learning,https://paperswithcode.com/paper/geometric-understanding-of-deep-learning#code,26 May 2018
+136,Identity Matters in Deep Learning,https://paperswithcode.com/paper/identity-matters-in-deep-learning#code,14 Nov 2016
+137,Provable limitations of deep learning,https://paperswithcode.com/paper/provable-limitations-of-deep-learning#code,16 Dec 2018
+138,Uncertainty Surrogates for Deep Learning,https://paperswithcode.com/paper/uncertainty-surrogates-for-deep-learning#code,16 Apr 2021
+139,Copyright in Generative Deep Learning,https://paperswithcode.com/paper/copyright-in-generative-deep-learning#code,19 May 2021
+140,Deep Learning without Weight Transport,https://paperswithcode.com/paper/using-weight-mirrors-to-improve-feedback#code,
+141,Deep Learning Gauss-Manin Connections,https://paperswithcode.com/paper/deep-learning-gauss-manin-connections#code,27 Jul 2020
+142,Deep Learning of Chaos Classification,https://paperswithcode.com/paper/deep-learning-of-chaos-classification#code,23 Apr 2020
+143,Accelerating Deep Learning with Memcomputing,https://paperswithcode.com/paper/accelerating-deep-learning-with-memcomputing#code,1 Jan 2018
+144,Notes on Deep Learning Theory,https://paperswithcode.com/paper/notes-on-deep-learning-theory#code,10 Dec 2020
+145,Portrait Segmentation Using Deep Learning,https://paperswithcode.com/paper/portrait-segmentation-using-deep-learning#code,6 Feb 2022
+146,Deep Learning in Target Space,https://paperswithcode.com/paper/deep-learning-in-target-space#code,2 Jun 2020
+147,Deep Learning with Nonsmooth Objectives,https://paperswithcode.com/paper/deep-learning-with-nonsmooth-objectives#code,14 Jul 2021
+148,BayesDLL: Bayesian Deep Learning Library,https://paperswithcode.com/paper/bayesdll-bayesian-deep-learning-library#code,22 Sep 2023
+149,Deep Learning Enhanced Realized GARCH,https://paperswithcode.com/paper/realized-recurrent-conditional#code,16 Feb 2023
+150,Hypothesis Spaces for Deep Learning,https://paperswithcode.com/paper/hypothesis-spaces-for-deep-learning#code,5 Mar 2024
